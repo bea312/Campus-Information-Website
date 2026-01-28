@@ -26,6 +26,3 @@ The project showcases several key CSS3 layout and positioning behaviors:
   Student Name:Bea
 
 
----
-
-### Would you like me to help you generate the final version of the `style.css` file that perfectly integrates these specific behaviors
