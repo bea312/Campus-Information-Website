@@ -23,7 +23,7 @@ The project showcases several key CSS3 layout and positioning behaviors:
 
 ### Student Information
 
-* **Student Name:**Bea
+  Student Name:Bea
 
 
 ---
