@@ -223,3 +223,50 @@
             padding: 30px;
             margin-top: 40px;
         }
+
+        /* --- Responsive Design (Mobile & Tablets) --- */
+
+@media (max-width: 768px) {
+    
+    .navbar {
+        flex-direction: column;
+        padding: 10px;
+    }
+    
+    .nav-links {
+        margin-top: 10px;
+    }
+
+   
+    .service-container {
+        flex-direction: column;
+    }
+
+
+    .grid-container {
+        grid-template-columns: 1fr; 
+        grid-auto-rows: auto; 
+    }
+
+
+    .item-tall, .item-wide {
+        grid-row: auto;
+        grid-column: auto;
+    }
+
+    
+    .announcement-flex {
+        flex-direction: column;
+    }
+
+    .urgent-alert {
+        position: static; 
+        width: 100%;
+    }
+
+  
+    .demo-flex {
+        flex-direction: column;
+        align-items: center;
+    }
+}
