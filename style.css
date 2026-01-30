@@ -96,7 +96,7 @@
             display: flex;
             gap: 20px;
             justify-content: center;
-            flex-wrap: wrap;
+           
         }
 
         .service-card {
@@ -157,7 +157,7 @@
 
 
 
-/* --- Section C: Announcements (Sticky) --- */
+/* --- Section C: Announcements --- */
         .announcement-layout {
             display: flex;
             gap: 30px;
@@ -184,7 +184,7 @@
             padding: 20px;
             border-radius: 10px;
         }
-        /* --- Section D: Display Behaviors --- */
+        /* Display Behaviors --- */
         .display-demo {
             display: flex;
             gap: 20px;
